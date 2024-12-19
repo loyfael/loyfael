@@ -70,3 +70,4 @@ Currently, I work for a small company on a remote reality car racing game, gaini
 
 ![banner-trophies](https://github.com/user-attachments/assets/3f4eb1eb-4eb3-48a7-b05a-6451607b7474)
 [![trophy](https://github-profile-trophy.vercel.app/?username=loyfael&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://visitcount.itsvg.in/api?id=loyfael&icon=5&color=1)](https://visitcount.itsvg.in)
