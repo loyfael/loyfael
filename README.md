@@ -15,7 +15,6 @@ Currently, I work for Avicom', a 360° communication agency in Lyon, where I am 
 ![banner-lang-run](https://github.com/user-attachments/assets/0a020f21-c88d-4f98-83dd-46bda6f8a0c0)
 <p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" title="Java" alt="Java"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" **alt="Kotlin" title="Kotlin"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" title="Javascript" alt="Javascript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" title="NodeJS" alt="NodeJS"/>&nbsp;
