@@ -1,5 +1,7 @@
-![banner](https://github.com/user-attachments/assets/d90cb749-aa38-4551-885e-e8c190c2b775)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)[![Buy me a Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/loyfael)
+![banner](https://github.com/user-attachments/assets/d90cb749-aa38-4551-885e-e8c190c2b775)<br>
+### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/) Follow me on Linkedln<br> 
+### [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W) Need help? Join my discord server ! <br>
+### [![Buy me a Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/loyfael) Support my work? Buy me a coffee ! <br>
 
 ![banner-about](https://github.com/user-attachments/assets/ce9dbd5c-6162-4af4-abd2-311c1d62f8d9)
 I'm a App Developer & Designer from France.
