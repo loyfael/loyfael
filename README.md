@@ -1,6 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/d90cb749-aa38-4551-885e-e8c190c2b775)<br>
-### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6Cdv9E3b7W)
-Want support my work? Buy me a [**Ko-fi (click here)**](https://ko-fi.com/loyfael)
+<p align="center">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" title="linkedin" alt="Linkedln" href="https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" title="discord" alt="DISCORD" href="https://discord.gg/6Cdv9E3b7W"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg" title="Buy me a ko-fi !" alt="KOFI" href="https://ko-fi.com/loyfael">
+</p>
 
 ![banner-about](https://github.com/user-attachments/assets/ce9dbd5c-6162-4af4-abd2-311c1d62f8d9)
 I'm a App Developer & Designer from France.
@@ -14,21 +15,20 @@ Currently, I work for Avicom', a 360° communication agency in Lyon, where I am 
 
 ---
 ![banner-lang-run](https://github.com/user-attachments/assets/0a020f21-c88d-4f98-83dd-46bda6f8a0c0)
-<p>
+<p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" title="Java" alt="Java"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" title="Javascript" alt="Javascript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" title="TypeScript" alt="TypeScript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" **alt="PHP" title="PHP"/>
 <!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" title="CSharp" alt="CSharp"/>&nbsp; -->
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg" **alt="GraphQL" title="GraphQL"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" title="Rust" alt="Rust"/>&nbsp;
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
 ![banner-frameworks](https://github.com/user-attachments/assets/9aa17156-b82c-4e29-a470-632c08c2fa6d)
-<p>
+<p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg" title="Symfony" alt="Symfony"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg" title="Laravel" alt="Laravel"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" title="NestJS" alt="NestJS"/>&nbsp;
@@ -38,26 +38,26 @@ Currently, I work for Avicom', a 360° communication agency in Lyon, where I am 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" **alt="Prisma" title="Prisma"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" **alt="TailwindCSS" title="TailwindCSS"/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg" title="ElectronJS" alt="ElectronJS"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg" **alt="GraphQL" title="GraphQL"/>
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
 ![banner-other](https://github.com/user-attachments/assets/96e5c26e-008a-4b5f-8c9e-070c62ddaf9d)
-<p>
+<p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro1.svg" title="Manjaro" alt="Manjaro"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" title="Debian" alt="Debian"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" title="Docker" alt="Docker"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" title="Archlinux" alt="Archlinux"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" title="Android" alt="Android"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" title="Visual Studio Code" alt="VSCODE"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" title="Git" alt="Git"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" title="Figma" alt="Figma"/>&nbsp;
 <br>
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
 ![banner-learn](https://github.com/user-attachments/assets/543d56fd-0c41-497d-8592-54f1cff68e43)
-<p>
+<p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" title="Figma" alt="Figma"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg" title="Figma" alt="Figma"/>&nbsp;
 <br>
