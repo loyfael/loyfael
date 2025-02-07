@@ -64,13 +64,13 @@ Currently, I work for Avicom', a 360° communication agency in Lyon, where I am 
 <!-- <img src="" title="" alt=""/>&nbsp; -->
 </p>
 
-![banner-learn](https://github.com/user-attachments/assets/543d56fd-0c41-497d-8592-54f1cff68e43)
+<!--![banner-learn](https://github.com/user-attachments/assets/543d56fd-0c41-497d-8592-54f1cff68e43)
 <p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" title="Figma" alt="Figma"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg" title="Figma" alt="Figma"/>&nbsp;
 <br>
-<!-- <img src="" title="" alt=""/>&nbsp; -->
-</p>
+ <img src="" title="" alt=""/>&nbsp; 
+</p>-->
 
 ---
 
