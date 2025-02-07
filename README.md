@@ -1,6 +1,14 @@
 ![banner](https://github.com/user-attachments/assets/d90cb749-aa38-4551-885e-e8c190c2b775)<br>
 <p align="center">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" title="linkedin" alt="Linkedln" href="https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" title="discord" alt="DISCORD" href="https://discord.gg/6Cdv9E3b7W"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg" title="Buy me a ko-fi !" alt="KOFI" href="https://ko-fi.com/loyfael">
+  <a href="https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" title="linkedin" alt="Linkedln">
+  </a>
+  <a href="https://discord.gg/6Cdv9E3b7W" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" title="discord" alt="DISCORD">
+  </a>
+  <a href="https://ko-fi.com/loyfael" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg" title="Buy me a ko-fi !" alt="KOFI">
+  </a>
 </p>
 
 ![banner-about](https://github.com/user-attachments/assets/ce9dbd5c-6162-4af4-abd2-311c1d62f8d9)
