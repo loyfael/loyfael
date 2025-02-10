@@ -11,6 +11,12 @@
   </a>
 </p>
 
+<div align="center">
+
+### Visitors number
+![Visitor Count](https://profile-counter.glitch.me/loyfael/count.svg)
+</div>
+
 ![banner-about](https://github.com/user-attachments/assets/ce9dbd5c-6162-4af4-abd2-311c1d62f8d9)
 I'm a App Developer & Designer from France.
 
@@ -19,7 +25,6 @@ I've loved computers since childhood, playing games like Rayman, Dofus, and Worl
 In late 2021, I transitioned from a career in mechanics to web development, learning PHP, Javascript, ReactJS, and Symfony. I earned my diploma with a focus on backend development, though I still have room to grow on the frontend.
 
 Currently, I work for Avicom', a 360° communication agency in Lyon, where I am involved in various projects, gaining valuable experience. My future goal is to become a freelancer, seeking the freedom to earn my living independently.<br>
-[![](https://visitcount.itsvg.in/api?id=loyfael&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 ![banner-lang-run](https://github.com/user-attachments/assets/0a020f21-c88d-4f98-83dd-46bda6f8a0c0)
