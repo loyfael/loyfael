@@ -1,8 +1,8 @@
 ![banner](https://github.com/user-attachments/assets/d90cb749-aa38-4551-885e-e8c190c2b775)<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/" target="_blank">
+  <!--<a href="https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" title="linkedin" alt="Linkedln">
-  </a>
+  </a>-->
   <a href="https://discord.gg/6Cdv9E3b7W" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" title="discord" alt="DISCORD">
   </a>
