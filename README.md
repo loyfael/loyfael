@@ -32,7 +32,7 @@ Currently, I work for Avicom', a 360° communication agency in Lyon, where I am 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" title="Java" alt="Java"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" title="Javascript" alt="Javascript"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" title="TypeScript" alt="TypeScript"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" **alt="PHP" title="PHP"/>
+<!--<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg" **alt="PHP" title="PHP"/>-->
 <!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" title="CSharp" alt="CSharp"/>&nbsp; -->
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" title="Rust" alt="Rust"/>&nbsp;
 <br>
