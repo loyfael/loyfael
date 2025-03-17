@@ -58,7 +58,6 @@ Currently, I work for Avicom', a 360° communication agency in Lyon, where I am 
 
 ![banner-other](https://github.com/user-attachments/assets/96e5c26e-008a-4b5f-8c9e-070c62ddaf9d)
 <p align="center">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro1.svg" title="Manjaro" alt="Manjaro"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg" title="Debian" alt="Debian"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" title="Docker" alt="Docker"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" title="Archlinux" alt="Archlinux"/>&nbsp;
