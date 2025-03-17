@@ -3,9 +3,9 @@
   <!--<a href="https://www.linkedin.com/in/lo%C3%AFs-dupasquier-a242591a1/" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" title="linkedin" alt="Linkedln">
   </a>-->
-  <a href="https://discord.gg/6Cdv9E3b7W" target="_blank">
+  <!--<a href="https://discord.gg/6Cdv9E3b7W" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" title="discord" alt="DISCORD">
-  </a>
+  </a>-->
   <a href="https://ko-fi.com/loyfael" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg" title="Buy me a ko-fi !" alt="KOFI">
   </a>
