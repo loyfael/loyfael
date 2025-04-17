@@ -19,11 +19,11 @@
 </div>
 
 ![350422756-ce9dbd5c-6162-4af4-abd2-311c1d62f8d9](https://github.com/user-attachments/assets/696aa490-6386-4d96-b9c6-128b6ddbc469)
-I'm a Software engineer from France.
+Hi, I'm a software engineer from France with a strong focus on backend development and a passion for building useful, well-crafted tools.
 
-I've loved computers since childhood, playing games like Rayman, Dofus, and World of Tanks. My real journey into coding began in 2018 while playing Minecraft. I started with Java, creating plugins and eventually running my own server.
-In late 2021, I transitioned from a career in mechanics to web development, learning PHP, Javascript, ReactJS, and Symfony. I earned my diploma with a focus on backend development, though I still have room to grow on the frontend.
-Currently, I work for a small web agency, where I am involved in various projects, gaining valuable experience. My future goal is to become a freelancer, seeking the freedom to earn my living independently.<br>
+My journey with computers began in childhood through games like Rayman, Dofus, and World of Tanks. In 2018, Minecraft sparked my interest in programming. I started coding in Java, creating plugins and eventually managing my own server. That hands-on experience quickly turned into a real drive to build and improve digital systems. In 2021, I made the switch from mechanics to web development. I studied PHP, JavaScript, React, and Symfony, earning a diploma with a specialization in backend. Since then, I've worked on a wide range of projects, mostly in web development, while continuously improving my frontend skills.
+
+Today, I work at a small web agency where I contribute to real-world client projects. My long-term goal is to become a freelancer and build a career around independence, flexibility, and meaningful work.<br>
 
 ---
 
