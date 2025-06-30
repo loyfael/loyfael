@@ -44,9 +44,6 @@ Today, I work at a small web agency where I contribute to real-world client proj
 ![Frameworks (3)](https://github.com/user-attachments/assets/81cd25bc-32f9-4b96-aabd-0d447542dee1)
 <p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg" title="Symfony" alt="Symfony"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg" title="Laravel" alt="Laravel"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg" title="NestJS" alt="NestJS"/>&nbsp;
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" title="ReactJS" alt="ReactJS"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg" title="ReactNative" alt="ReactNative"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg" title="VueJS" alt="VueJS"/>&nbsp;
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" **alt="Prisma" title="Prisma"/>
