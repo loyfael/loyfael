@@ -12,11 +12,11 @@
   </a>
 </p>
 
-<div align="center">
+<!--<div align="center">
 
 ### Visitors number
 ![Visitor Count](https://profile-counter.glitch.me/loyfael/count.svg)
-</div>
+</div>-->
 
 ![350422756-ce9dbd5c-6162-4af4-abd2-311c1d62f8d9](https://github.com/user-attachments/assets/696aa490-6386-4d96-b9c6-128b6ddbc469)
 Hi, I'm a software engineer from France with a strong focus on backend development and a passion for building useful, well-crafted tools.
