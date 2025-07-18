@@ -23,6 +23,8 @@ Hi, I'm a software engineer from France with a strong focus on backend developme
 
 My journey with computers began in childhood through games like Rayman, Dofus, and World of Tanks. In 2018, Minecraft sparked my interest in programming. I started coding in Java, creating plugins and eventually managing my own server. That hands-on experience quickly turned into a real drive to build and improve digital systems. In 2021, I made the switch from mechanics to web development. I studied PHP, JavaScript, React, and Symfony, earning a diploma with a specialization in backend. Since then, I've worked on a wide range of projects, mostly in web development, while continuously improving my frontend skills.
 
+I enjoy creating clean, well-structured code and exploring ways to improve developer experience through thoughtful tooling and infrastructure. In my free time, I work on side projects involving Java, Rust, Typescript etc, often experimenting with modular architectures and deployment workflows.
+
 Today, I work at a small web agency where I contribute to real-world client projects. My long-term goal is to become a freelancer and build a career around independence, flexibility, and meaningful work.<br>
 
 ---
