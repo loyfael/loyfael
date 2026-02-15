@@ -32,6 +32,7 @@ I aim to create projects that are coherent, solid, and thoughtfully engineered, 
 ### Frontend
 
 * Vue.js
+* Nuxt.js
 * TypeScript
 * Tailwind CSS
 
