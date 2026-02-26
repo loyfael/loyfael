@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Loyfaël
-I build clean, scalable apps — and occasionally entire universes 🌌
+I build clean, scalable apps and occasionally entire universes 🌌
 
 - 👨‍💻 Application developer (7+ years)
 - 🧱 Focus: architecture, security, maintainability
