@@ -24,4 +24,4 @@ I build clean, scalable apps and occasionally entire universes 🌌
 - 🤝 Collaboration > ego
 
 ## 📫 Contact
-Available soon..
+Contact me directly with [**this website**](https://lunokostudio.fr)
