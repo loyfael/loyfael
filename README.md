@@ -28,7 +28,6 @@ I believe great software is built through clean architecture, thoughtful enginee
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 
 ### Frameworks
 
@@ -68,7 +67,7 @@ I believe great software is built through clean architecture, thoughtful enginee
 
 ### 🧪 Labs
 
-> Open source libraries, Rust experiments, automation and crazy ideas.
+> Open source libraries, Experimental Gamedesign, automation and other crazy ideas.
 
 ---
 
