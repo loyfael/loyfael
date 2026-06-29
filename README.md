@@ -1,27 +1,103 @@
-# 👋 Hi, I'm Loyfaël
-I build clean, scalable apps and occasionally entire universes 🌌
+<div align="center">
 
-- 👨‍💻 Application developer (7+ years)
-- 🧱 Focus: architecture, security, maintainability
-- 🎸 Side quests: guitar (17+ years), game systems & worldbuilding
+# Hi, I'm Loyfaël 👋
 
-## 🛠️ Tech I use
-**Backend:** Kotlin, Java, Symfony, Laravel, Node.js/Bun, GraphQL ⚙️
-**Frontend:** Vue, Nuxt, TypeScript, Tailwind CSS 🎨
+### Building software that lasts.
 
-**Ops/Tools:** Docker, GitLab CI/CD, Terraform, Linux (Arch/Manjaro), Git 🧰
+French application developer focused on **architecture**,<br> **performance** and **developer experience**.
 
-## 📦 What I like shipping
-- 🏢 Business apps, website & internal tools
-- 🔌 REST/GraphQL APIs
-- 🎮 Game plugins/systems
-- 🦀 Rust experiments (performance-oriented)
+From modern web platforms to Minecraft ecosystems, I enjoy building products that are reliable, scalable and pleasant to maintain.
 
-## 🧭 Principles
-- ✨ Clarity > cleverness
-- 🏗️ Architecture > shortcuts
-- 📝 Docs > assumptions
-- 🤝 Collaboration > ego
+<br>
+
+[![Website](https://img.shields.io/badge/Website-lunokostudio.fr-111827?style=for-the-badge)](https://lunokostudio.fr)
+[![LunoVote](https://img.shields.io/badge/LunoVote-Platform-4F46E5?style=for-the-badge)](https://lunovote.fr)<br>
+*(LunoVote available soon.. feel free to explore my other repos !)*
+
+</div>
+
+---
+
+## 🚀 What I build
+
+- 🌐 Modern web applications
+- ⚙️ Backend services & APIs
+- 🎮 Minecraft plugins & server ecosystems
+- 📊 Business platforms & internal tools
+- 🦀 Performance-oriented experiments in Rust
+- 🔧 Developer tooling & automation
+
+---
+
+## 💻 Languages
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 🛠 Backend
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+---
+
+## 🎨 Frontend
+
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## ☁️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux)
+
+---
+
+## 📌 Featured projects
+
+- 🚀 **LunoVote** • Modern game server voting platform
+- 🎮 Minecraft plugins & server infrastructure
+- 🧩 Open source libraries
+- 🔬 Experimental side projects
+
+---
+
+## 📖 Philosophy
+
+> Build for years, not for weeks.
+
+- 🏗 Architecture over shortcuts
+- ✨ Simplicity over complexity
+- 📚 Documentation over assumptions
+- ⚡ Performance where it matters
+- 🤝 Collaboration over ego
+
+---
+
+## 🎸 Beyond code
+
+- 🎸 Guitar player for 17+ years
+- 🌍 Worldbuilding & game design
+- 🧠 Software architecture enthusiast
+
+---
 
 ## 📫 Contact
-Contact me directly with [**this website**](https://lunokostudio.fr)
+
+🌐 **https://lunokostudio.fr**
