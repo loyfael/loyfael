@@ -11,7 +11,7 @@ I believe great software is built through clean architecture, thoughtful enginee
 <br>
 
 [![Website](https://img.shields.io/badge/🌐_Website-lunokostudio.fr-111827?style=for-the-badge)](https://lunokostudio.fr)
-[![LunoVote](https://img.shields.io/badge/🚀_-5B5BE6?style=for-the-badge)](https://lunovote.fr)
+[![LunoVote](https://img.shields.io/badge/🚀_Lunovote-5B5BE6?style=for-the-badge)](https://lunovote.fr)
 
 *Building the next generation of game server visibility.*
 
